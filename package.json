@@ -1,0 +1,17 @@
+{
+  "name": "testing-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "avgMedianArr.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^12.1.3"
+  }
+}
